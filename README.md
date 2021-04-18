@@ -2,7 +2,7 @@
 
 ## Team
 
-Russell Telen (FS), Karen Mok (FE), Kirill Kutnenko (FE), Tilman Queitsch (BE)
+Russell Telen  , Karen Mok  , Kirill Kutnenko , Tilman Queitsch  
 
 ## App Summary
 
