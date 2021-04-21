@@ -1,9 +1,5 @@
 # Simple Stock
 
-## Team
-
-Russell Telen  , Karen Mok  , Kirill Kutnenko , Tilman Queitsch  
-
 ## App Summary
 
 Simple Stock is a cross-platform mobile application using React Native in the client / front-end, and Node.js with MongoDB in the back-end.
